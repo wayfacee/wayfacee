@@ -1,12 +1,10 @@
-<img src='./img/first.jpg' width='100%'>
-
-## Hi there 👋, I'm Wayface (Aktan)
+## Hi there 👋, I'm Wayface **(Aktan)**
 
 ### I'm Frontend Developer
 
 - 🌱 I’m currently learning **React.ts**
 
-## Languages and Tools:
+## **Languages and Tools:**
 <!-- <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' width='80px'> -->
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS#](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -17,5 +15,5 @@
 ![REDUX](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![MOBX](https://img.shields.io/badge/Mobx-FF7800?style=for-the-badge&logo=mobx&logoColor=white)
 
-## Connect with me:
+## **Connect with me:**
 [<img width='100px' src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white'>](https://t.me/wayfaceee) [<img width='99px' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>](https://t.me/wayfaceee)
