@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Wayface **(Aktan)**
+## Hi there 👋, I'm Wayface
 
 ### I'm Frontend Developer
 
