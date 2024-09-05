@@ -2,8 +2,6 @@
 
 ### I'm Frontend Developer
 
-- 🌱 I’m currently learning **React.ts**
-
 - #### My email: wayfacee@gmail.com 
 
 ## **Languages and Tools:**
